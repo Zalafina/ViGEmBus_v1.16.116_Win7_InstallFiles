@@ -4,6 +4,8 @@
 只需下载ViGEmBus v1.16.116 安装程序(ViGEmBus_Setup_1.16.116.exe)并按照提示进行操作即可。完成！
 
 ## Windows 7：
+* 先按照下面说明安装 1_pre_install_files 中的X360 Accessories程序 和 Win7安全更新补丁。
+* 再安装 2_driver_installer 中的 ViGEmBus_Setup_1.16.116.exe 虚拟手柄驱动程序。
 ### Windows 7 需要的先决条件：
 在 Windows 7（x86 或 x64）上安装ViGEmBus驱动程序之前，必须安装以下第三方软件：
 
